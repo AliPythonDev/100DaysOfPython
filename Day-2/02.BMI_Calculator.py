@@ -1,3 +1,4 @@
+#BMI Calculator Project
 height = input("Enter your Height in meters: ")
 weight = input("Enter your Weight in Kilograms: ")
 height_as_float = float(height)
